@@ -1,0 +1,11 @@
+ABC
+CDEF
+ghij
+klm
+nop
+ask
+tell
+my
+first file is created
+in git hub
+to edit to check add command
