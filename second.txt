@@ -5,5 +5,8 @@ ghij
 klmn
 opq
 It is requred to add new file for git
+<<<<<<< HEAD
 to check
+=======
+>>>>>>> 684015b523d92e5915978874ef6d5f087f22e95d
 

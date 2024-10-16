@@ -8,5 +8,8 @@ tell
 my
 first file is created
 in git hub
+<<<<<<< HEAD
 to edit to check add command
 to check the commit command
+wejhcbcbwwch
+dhbcjgcryc
