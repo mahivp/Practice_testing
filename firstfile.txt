@@ -13,3 +13,4 @@ to edit to check add command
 to check the commit command
 wejhcbcbwwch
 dhbcjgcryc
+Text is added from echo command
